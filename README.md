@@ -7,7 +7,7 @@ This repository contains an example implementation of the Finite Element Method 
 We solve the Poisson equation:
 
 \[
--\Delta u = f \quad \text{in} \ \Omega
+\Delta u = f \quad \text{in} \ \Omega
 \]
 \[
 u = 0 \quad \text{on} \ \partial\Omega
