@@ -31,3 +31,7 @@ Install dependencies:
 
 ```bash
 pip install fenics matplotlib
+
+Run
+python demo_poisson.py
+
